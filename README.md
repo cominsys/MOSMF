@@ -1,4 +1,4 @@
-# MOSMF
+# MOSM Configurations
 Hybrid multi-objective evolutionary algorithm based on Search Manager framework for big data optimization problems - Matlab Code
 
 DOI: [10.1016/j.asoc.2019.105991](https://doi.org/10.1016/j.asoc.2019.105991)
