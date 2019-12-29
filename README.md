@@ -11,4 +11,4 @@ URL: [https://www.sciencedirect.com/science/article/pii/S1568494619307720](https
 ## Runnig 
 To run the developed program for solving Big-Opt problems:
 1) Extract "ProblemData.zip" file to the path of MOSM files.
-2) Run the SearchManager script.
+2) Run the SearchManager script in Matlab environment.
